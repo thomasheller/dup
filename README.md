@@ -1,6 +1,8 @@
 # dup
 
+[![Build Status](https://travis-ci.org/thomasheller/dup.svg?branch=master)](https://travis-ci.org/thomasheller/dup)
 [![Go Report Card](https://goreportcard.com/badge/github.com/thomasheller/dup)](https://goreportcard.com/report/github.com/thomasheller/dup)
+[![Coverage Status](https://coveralls.io/repos/github/thomasheller/dup/badge.svg?branch=master)](https://coveralls.io/github/thomasheller/dup?branch=master)
 
 dup finds duplicate files in a directory hierarchy (recursive) based
 on their SHA256 hash.
